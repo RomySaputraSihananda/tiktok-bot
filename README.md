@@ -2,7 +2,7 @@
 
 # tiktok-bot
 
-![](https://raw.githubusercontent.com/RomySaputraSihananda/RomySaputraSihananda/main/images/GA-U-u2bsAApmn9.jpeg)
+![](https://raw.githubusercontent.com/RomySaputraSihananda/RomySaputraSihananda/main/images/F7C9ziGbcAENWdi.jpeg)
 
 ## Requirements
 
